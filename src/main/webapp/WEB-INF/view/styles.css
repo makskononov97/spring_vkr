@@ -1,0 +1,39 @@
+#sign {
+    float: right; /* Выравнивание по правому краю */
+    border: 1px solid #333; /* Параметры рамки */
+    padding: 7px; /* Поля внутри блока */
+    margin: 10px 0 5px 5px; /* Отступы вокруг */
+    background: #f0f0f0; /* Цвет фона */
+    text-align: center; /* Выравнивание по центру */
+
+}
+#sign figcaption {
+    margin: 0 auto 5px; /* Отступы вокруг абзаца */
+}
+
+#button_blue {
+    background: -moz-linear-gradient(#D0ECF4, #5BC9E1, #D0ECF4);
+    background: -webkit-gradient(linear, 0 0, 0  100%, from(#D0ECF4), to(#D0ECF4), color-stop(0.5, #5BC9E1));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00BBD6', endColorstr='#EBFFFF');
+    padding: 3px 7px;
+    color: #333;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #666;
+    height:50px;
+    font-size:100%;
+}
+#button_green {
+    background: -moz-linear-gradient(#beffbf, #2df32f, #beffbf);
+    background: -webkit-gradient(linear, 0 0, 0  100%, from(#beffbf), to(#beffbf), color-stop(0.5, #2df32f));
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#beffbf', endColorstr='#2df32f');
+    padding: 3px 7px;
+    color: #333;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    border: 1px solid #666;
+    height:50px;
+    font-size:100%;
+}
