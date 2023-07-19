@@ -106,9 +106,9 @@
 
 <table class="table_blur">
     <tr>
-        <th>&emsp;Название&emsp;</th><%--кнопки добавь для выбора--%>
-        <th>&emsp;Частота, Гц&emsp;</th><%--кнопки добавь для выбора--%>
-        <th>&emsp;Напряжение, В&emsp;</th><%--кнопки добавь для выбора--%>
+        <th>&emsp;Название&emsp;</th>
+        <th>&emsp;Частота, Гц&emsp;</th>
+        <th>&emsp;Напряжение, В&emsp;</th>
         <th>&emsp;&emsp;&emsp;Действия&emsp;&emsp;&emsp;</th>
     </tr>
 
